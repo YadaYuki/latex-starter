@@ -2,4 +2,4 @@ build:
 	./run.sh
 
 clean:
-	rm *.aux *.dvi *.log *.pdf
+	rm workdir/*.aux workdir/*.dvi workdir/*.log workdir/*.pdf
